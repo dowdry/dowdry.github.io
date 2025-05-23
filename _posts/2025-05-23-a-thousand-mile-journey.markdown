@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A thousand mile journey
-date: 2025-05-23 16:05:00 +1000
+date: 2025-05-22 16:05:00 +1000
 img: software.jpg # Add image post (optional)
 tags: [Development, Entitlements] # add tag
 ---
