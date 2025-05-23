@@ -6,12 +6,9 @@ description: # Add post description (optional)
 img: software.jpg # Add image post (optional)
 tags: [Development, Entitlements] # add tag
 ---
-
 *A little history about me before we start: I have been involved in SOCs for the majority of my career in Cyber Security. In 2023 I was provided with an OffSec Unlimited Subscription (1-year of access to unlimited courses & content) which enabled me to complete the OSCP, OSWP and OSDA trainings and examinations. With a couple of months left of my subscription, I decided to undertake the OffSec macOS Researcher (OSMR) certification as Apple expertise was in short supply within our SOC.*
 
 *Completing the OSMR certification led me to many resources; most notably the Objective-See tools developed by Patrick Wardle, and later attending my first Objective-by-the-Sea conference in Maui, as well as a handful of CVEs awarded through the Apple Security Bounty program.*
-
----
 
 I have been toying with the idea of leveraging the Endpoint Security framework to supercharge my otherwise cumbersome and, honestly, clumsy approach to bug hunting on macOS. While there are many tools already publicly available to help with this -- Red Canary Mac Monitor (Brandon Dalton), ESFPlayground (Jaron Bradley / The Mitten Mac), ProcessMontor & File Montor (Objective-See), and even eslogger (Apple) -- I decided to go down the path of developing my own application.
 
