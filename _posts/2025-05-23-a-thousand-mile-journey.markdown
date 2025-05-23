@@ -29,6 +29,6 @@ I was a little apprehensive about requesting this entitlement without even a sin
 
 After submitting my request detailing the above intentions, as well as citing Apple's own Monitoring System Events with Endpoint Security [sample code](https://developer.apple.com/documentation/endpointsecurity/monitoring-system-events-with-endpoint-security) under "Company / Product URL", I was assigned the entitlement for Endpoint Security. Perhaps I caught an Apple employee on a good day, or was simply just lucky. Regardless, after a couple of weeks I received notification that I was granted this entitlement.
 
-![Twitter](assets/img/01x1.png)
+![Twitter](/assets/img/01x1.png)
 
 And with that single step, my journey has started.
