@@ -104,7 +104,7 @@ Once ingested into Logstash, this "entitlement" index became the base for my ing
 
 ![image](/assets/img/image7.png)
 
-The data is flowing in, and while familiarising myself with EQL and ES|QL I run a few spot checks to ensure process lineage and binary context are what is to be expected.
+The data is flowing in, and while familiarising myself with EQL and ES\|QL I run a few spot checks to ensure process lineage and binary context are what is to be expected.
 
 ![image](/assets/img/image8.png)
 
@@ -116,7 +116,7 @@ I was certain that to get a broad spectrum of telemetry I would have to become t
 >
 >_Goodbye human intelligence, hello Apple Intelligence._
 
-The data is rolling in, and I gain familiarity with EQL and EQ|QL queries - both in an effort to confirm the fidelity of the data but also to familiarise myself with the nuances of each query language. I did not expect my first finding, a SIP bypass, to come from this early data validation stage. Simple logic comparable to "show me all process binaries with SIP privileges that wrote to non-protected system locations"? One symlink is all it took.
+The data is rolling in, and I gain familiarity with EQL and EQ\|QL queries - both in an effort to confirm the fidelity of the data but also to familiarise myself with the nuances of each query language. I did not expect my first finding, a SIP bypass, to come from this early data validation stage. Simple logic comparable to "show me all process binaries with SIP privileges that wrote to non-protected system locations"? One symlink is all it took.
 
 In my next blog post, I will be discussing CVE-2025-43191; which Apple plans to patch in macOS Sequoia 15.6, and then hopefully many more.
 
